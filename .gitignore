@@ -1,5 +1,5 @@
 #ignore_api_keys
-config.ipynb
+config.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
