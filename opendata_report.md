@@ -20,6 +20,8 @@ Central Question: Do countries that invest in digital public services also share
 
 # How did overall ranks change between 2014 and 2016?
 
+![bar](https://raw.githubusercontent.com/jshapi16/opendata-octupi/main/Images/download.png)
+
 * Latin America & Caribbean and the East Asia & Pacific regions experiences the greatest average percentage increase from 2014 to 2016. 
 
 * Middle East & North Africa and South Asia regions experiences the negative average percentage decrease from 2014 to 2016, where Europe and Central Asia experiences little to no change between the two years.
@@ -64,7 +66,11 @@ Central Question: Do countries that invest in digital public services also share
     * Europe & Central Asia: About half the governments in this region increase their open data score, while the other half experiences a decrease in percentage change from 2014 to 2016. Ukraine experinces the greatest postive percentage change of almost 70%, while France and Hungary experinces the greatest decrease in percentage change of close to 40%.
 
 # How Transparency Can Help the Economy
-
+![region](https://raw.githubusercontent.com/jshapi16/opendata-octupi/main/Images/download%20(2).png)
+![rank](https://raw.githubusercontent.com/jshapi16/opendata-octupi/main/Images/download%20(3).png)
+![rediness](https://raw.githubusercontent.com/jshapi16/opendata-octupi/main/Images/download%20(4).png)
+![economic](https://raw.githubusercontent.com/jshapi16/opendata-octupi/main/Images/download%20(5).png)
+![human](https://github.com/jshapi16/opendata-octupi/blob/main/Images/download%20(6).png)
 * Transparency would indirectly and directly support a broad range of objectives in government systems globally. 
 
 * 6 key objectives that it would support are by exposing government corruption, Reducing the scope for government revenues to be siphoned offshore, increased collection of domestic tax revenues, Increasing the accountability and effectiveness of government spending, Reducing dependency on foreign aid, and, finally it would help to prevent money laundering and terrorist finance.
