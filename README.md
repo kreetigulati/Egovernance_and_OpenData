@@ -37,9 +37,29 @@ Central Question: Do countries that invest in digital public services also share
 
 * Latin America & Caribbean improved the most from 2014 and 2016. 
 
+    * 2014: The linear regression is graphing the relationship between the E-Government Index and the Open Data Barometer. The relationship between E-Government Index and Open Data Barometer is a strong and positive correlation, meaning a high E-Government Index does associate with a relatively high Open Data Barometer score for the Latin America & Caribbean region. **An r-squared of 78% reveals that 64% of the data fit the regression model.**
+
+    * 2016: The linear regression is graphing the relationship between the E-Government Index and the Open Data Barometer. The relationship between E-Government Index and Open Data Barometer is a strong and positive correlation, meaning a high E-Government Index does associate with a relatively high Open Data Barometer score for the Latin America & Caribbean region. **An r-squared of 78% reveals that 64% of the data fit the regression model.**
+
 * Europe and Central Asia, which consists of many 'developed' countries, decreased in their Open Data Barometer score and E-Government rank from 2014 to 2016.
 
+    * 2014: The linear regression is graphing the relationship between the E-Government Index (* 100) and the Open Data Barometer. The relationship between E-Government Index and Open Data Barometer is a strong and positive correlation, meaning a high E-Government Index does associate with a relatively high Open Data Barometer score for the Europe & Central Asia region. **An r-squared of 78% reveals that 78% of the data fit the regression model.**
+
+    * 2016: The linear regression is graphing the relationship between the E-Government Index and the Open Data Barometer. The relationship between E-Government Index and Open Data Barometer is a strong and positive correlation, meaning a high E-Government Index does associate with a relatively high Open Data Barometer score for the Europe & Central Asia region. **An r-squared of 71.7% reveals that 71.7% of the data fit the regression model.**
+
 * Overall, we can conclude that not every country in their respective regions progressed similarly, highlighting a great degree of disparity of e-servces within governments and the lack of open data policies. 
+
+* E-Government Index Percentage Change
+
+    * Latin America & Caribbean: Argentina and Ecuador experiences the greatest increase in percentage change of **over 10%** from 2014 to 2016 in their e-services rating. Venezuela experiences the greatest decrease of percentage change of over 7%. 
+
+    * Europe & Central Asia: Ukraine experiences the greatest increase in percentage change of over 20%, while France experiences the greatest decrease in percentage change of over 5% from 2014 to 2016.
+
+* Open Data Barometer Score Percentage Change
+
+    * Latin America: Hati experiences the greatest increase in percentage change of **over 400%** from 2014 and 2016. Other governments in the region had a relatively slight percentage change in their open data score. 
+
+    * Europe & Central Asia: About half the governments in this region increase their open data score, while the other half experiences a decrease in percentage change from 2014 to 2016. Ukraine experinces the greatest postive percentage change of almost 70%, while France and Hungary experinces the greatest decrease in percentage change of close to 40%.
 
 # How Transparency Can Help the Economy
 
