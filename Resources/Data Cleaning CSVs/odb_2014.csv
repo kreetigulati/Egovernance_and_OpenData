@@ -1,0 +1,87 @@
+,Year,Region,ISO2,ISO3,ODB-Rank,Country,ODB-Score-Scaled,Readiness-Scaled,Implementation-Innovation-Scaled,Implementation-Social-Scaled,Implementation-Accountability-Scaled,Implementation-Rank,Impact-Political-Scaled,Impact-Social-Scaled,Impact-Economic-Scaled,Impact-Rank,Cluster-Group
+0,2014,Europe & Central Asia,GB,GBR,1,UK,100.0,98,96,92,96,1,98,77,80,1,High capacity
+1,2014,North America,US,USA,2,US,92.66,96,95,77,80,2,98,54,100,1,High capacity
+2,2014,Europe & Central Asia,SE,SWE,3,Sweden,83.7,100,67,81,71,4,85,91,53,4,High capacity
+3,2014,Europe & Central Asia,FR,FRA,4,France,80.21,91,75,79,61,7,74,60,79,5,High capacity
+4,2014,East Asia & Pacific,NZ,NZL,4,New Zealand,80.01,81,76,83,92,3,69,0,67,14,High capacity
+5,2014,Europe & Central Asia,NL,NLD,6,Netherlands,75.79,95,79,82,56,5,76,26,46,13,High capacity
+6,2014,Europe & Central Asia,NO,NOR,7,Norway,74.59,88,70,83,58,8,100,17,48,8,High capacity
+7,2014,North America,CA,CAN,7,Canada,74.52,90,92,72,51,6,50,60,39,12,High capacity
+8,2014,Europe & Central Asia,DK,DNK,9,Denmark,70.13,94,64,51,42,17,85,69,87,3,High capacity
+9,2014,East Asia & Pacific,AU,AUS,10,Australia,68.33,92,86,55,58,10,24,46,40,20,High capacity
+10,2014,Europe & Central Asia,DE,DEU,10,Germany,67.63,85,69,65,59,11,65,26,46,15,High capacity
+11,2014,Europe & Central Asia,FI,FIN,12,Finland,66.49,93,67,52,38,18,46,69,80,7,High capacity
+12,2014,Europe & Central Asia,EE,EST,13,Estonia,60.18,84,53,55,42,21,57,46,60,8,High capacity
+13,2014,Europe & Central Asia,ES,ESP,13,Spain,59.89,78,86,48,41,14,33,17,53,23,Emerging and advancing
+14,2014,Latin America & Caribbean,CL,CHL,15,Chile,58.7,69,82,57,70,9,7,0,13,42,Emerging and advancing
+15,2014,Europe & Central Asia,AT,AUT,15,Austria,58.52,83,44,28,53,30,57,100,59,5,High capacity
+16,2014,Europe & Central Asia,CZ,CZE,17,Czech Republic,58.07,64,58,53,65,13,52,26,39,18,Emerging and advancing
+17,2014,East Asia & Pacific,KR,KOR,17,Korea,57.65,79,45,57,56,16,59,17,46,17,High capacity
+18,2014,East Asia & Pacific,JP,JPN,19,Japan,53.58,81,53,62,39,20,17,43,20,26,High capacity
+19,2014,Middle East & North Africa,IL,ISR,20,Israel,52.97,70,47,45,58,22,65,14,31,20,High capacity
+20,2014,Latin America & Caribbean,BR,BRA,21,Brazil,52.13,66,49,71,62,12,17,0,6,41,Emerging and advancing
+21,2014,Europe & Central Asia,CH,CHE,22,Switzerland,51.33,81,34,53,26,35,93,17,53,10,High capacity
+22,2014,Europe & Central Asia,IT,ITA,22,Italy,50.58,55,52,50,57,15,43,9,39,24,Emerging and advancing
+23,2014,Latin America & Caribbean,MX,MEX,24,Mexico,50.09,67,49,56,52,19,33,0,27,29,Emerging and advancing
+24,2014,Latin America & Caribbean,UY,URY,25,Uruguay,49.37,66,48,63,39,23,24,31,20,28,Emerging and advancing
+25,2014,Europe & Central Asia,RU,RUS,26,Russia,48.25,54,35,69,38,26,41,9,61,19,Emerging and advancing
+26,2014,Europe & Central Asia,BE,BEL,27,Belgium,47.29,86,21,33,39,45,48,43,61,11,High capacity
+27,2014,Europe & Central Asia,IS,ISL,27,Iceland,46.57,73,57,42,13,36,39,14,67,16,High capacity
+28,2014,Europe & Central Asia,PT,PRT,29,Portugal,46.12,70,67,42,37,24,31,0,6,38,Emerging and advancing
+29,2014,East Asia & Pacific,SG,SGP,29,Singapore,46.06,71,39,57,22,33,28,43,38,20,High capacity
+30,2014,Europe & Central Asia,GR,GRC,31,Greece,40.79,60,40,45,44,29,37,0,6,36,Emerging and advancing
+31,2014,Europe & Central Asia,IE,IRL,31,Ireland,40.74,74,47,41,30,32,17,0,19,38,Emerging and advancing
+32,2014,Europe & Central Asia,HU,HUN,33,Hungary,38.26,48,44,50,19,34,48,9,27,25,Emerging and advancing
+33,2014,Latin America & Caribbean,PE,PER,33,Peru,37.74,44,53,67,25,25,0,0,0,65,Emerging and advancing
+34,2014,Europe & Central Asia,PL,POL,35,Poland,36.99,46,41,59,35,27,7,0,6,50,Emerging and advancing
+35,2014,East Asia & Pacific,ID,IDN,36,Indonesia,36.18,46,39,70,12,31,17,29,0,35,Capacity constrained
+36,2014,Latin America & Caribbean,AR,ARG,36,Argentina,35.71,48,42,38,31,37,22,17,20,30,Emerging and advancing
+37,2014,Latin America & Caribbean,EC,ECU,38,Ecuador,35.03,42,52,62,15,28,7,9,0,45,Emerging and advancing
+38,2014,South Asia,IN,IND,39,India,33.15,56,32,54,25,38,7,0,0,51,Emerging and advancing
+39,2014,Latin America & Caribbean,CO,COL,40,Colombia,32.38,54,21,44,27,47,24,9,20,31,Emerging and advancing
+40,2014,Latin America & Caribbean,CR,CRI,41,Costa Rica,31.26,56,24,61,15,43,0,0,13,45,Emerging and advancing
+41,2014,Europe & Central Asia,TR,TUR,41,Turkey,31.24,47,32,47,28,41,17,0,0,45,Capacity constrained
+42,2014,East Asia & Pacific,MY,MYS,41,Malaysia,30.76,44,36,53,22,39,0,0,6,51,One sided initiative
+43,2014,Sub-Saharan Africa,ZA,ZAF,41,South Africa,30.7,48,37,25,34,44,26,14,0,37,Emerging and advancing
+44,2014,Middle East & North Africa,TN,TUN,45,Tunisia,28.57,58,24,25,13,57,52,0,26,26,Emerging and advancing
+45,2014,East Asia & Pacific,CN,CHN,46,China,28.12,52,20,45,12,51,26,9,13,33,Emerging and advancing
+46,2014,Sub-Saharan Africa,RW,RWA,46,Rwanda,28.05,36,39,46,21,42,9,0,0,51,Capacity constrained
+47,2014,Sub-Saharan Africa,GH,GHA,46,Ghana,27.99,35,31,39,39,40,0,0,0,65,Capacity constrained
+48,2014,Latin America & Caribbean,JM,JAM,49,Jamaica,26.26,42,21,52,12,48,0,14,13,40,Capacity constrained
+49,2014,Europe & Central Asia,KZ,KAZ,49,Kazakhstan,25.87,40,27,33,33,46,7,0,0,51,One sided initiative
+50,2014,Sub-Saharan Africa,KE,KEN,49,Kenya,25.8,42,9,43,22,52,24,14,13,32,Capacity constrained
+51,2014,Middle East & North Africa,AE,ARE,52,UAE,24.86,53,20,36,15,54,22,0,0,42,One sided initiative
+52,2014,East Asia & Pacific,PH,PHL,53,Philippines,23.19,58,10,22,27,58,7,14,0,42,Emerging and advancing
+53,2014,Sub-Saharan Africa,MU,MUS,54,Mauritius,21.86,35,21,45,13,50,7,0,0,51,Capacity constrained
+54,2014,Europe & Central Asia,UA,UKR,55,Ukraine,21.23,37,31,19,22,53,0,0,13,45,Capacity constrained
+55,2014,Middle East & North Africa,MA,MAR,55,Morocco,21.11,47,16,16,19,64,33,14,0,34,Emerging and advancing
+56,2014,East Asia & Pacific,VN,VNM,57,Vietnam,18.23,16,20,42,18,49,0,0,7,51,Capacity constrained
+57,2014,East Asia & Pacific,TH,THA,57,Thailand,18.19,33,18,28,21,56,0,0,0,65,Capacity constrained
+58,2014,Sub-Saharan Africa,MZ,MOZ,59,Mozambique,16.2,21,19,39,11,55,0,0,0,65,Capacity constrained
+59,2014,Middle East & North Africa,SA,SAU,59,Saudi Arabia,15.77,38,13,30,8,65,0,0,0,65,One sided initiative
+60,2014,Middle East & North Africa,JO,JOR,61,Jordan,15.49,40,8,29,11,67,0,0,0,65,Capacity constrained
+61,2014,Middle East & North Africa,BH,BHR,61,Bahrain,15.38,43,12,26,7,69,0,0,0,65,One sided initiative
+62,2014,South Asia,NP,NPL,61,Nepal,14.56,30,16,10,27,62,0,0,0,65,Capacity constrained
+63,2014,Sub-Saharan Africa,UG,UGA,64,Uganda,14.46,24,20,23,13,59,7,0,0,51,Capacity constrained
+64,2014,Middle East & North Africa,EG,EGY,64,Egypt,14.17,27,9,20,25,61,0,0,0,65,Capacity constrained
+65,2014,Middle East & North Africa,QA,QAT,64,Qatar,13.97,46,12,14,10,74,0,0,0,65,One sided initiative
+66,2014,South Asia,PK,PAK,67,Pakistan,12.61,32,18,9,13,71,0,0,6,51,Capacity constrained
+67,2014,Latin America & Caribbean,VE,VEN,68,Venezuela,12.45,20,21,22,10,63,0,0,0,65,Capacity constrained
+68,2014,Sub-Saharan Africa,MW,MWI,68,Malawi,12.15,26,14,22,10,68,0,0,0,65,Capacity constrained
+69,2014,Sub-Saharan Africa,BJ,BEN,68,Benin,11.98,15,15,32,8,60,0,0,0,65,Capacity constrained
+70,2014,Sub-Saharan Africa,TZ,TZA,68,Tanzania,11.69,17,9,27,14,66,0,0,6,51,Capacity constrained
+71,2014,Sub-Saharan Africa,NG,NGA,68,Nigeria,11.53,39,8,8,10,82,0,0,13,45,Capacity constrained
+72,2014,South Asia,BD,BGD,68,Bangladesh,11.5,24,15,13,14,70,0,0,6,51,Capacity constrained
+73,2014,Sub-Saharan Africa,BF,BFA,74,Burkina Faso,11.32,31,7,22,9,72,0,0,0,65,Capacity constrained
+74,2014,Sub-Saharan Africa,SN,SEN,74,Senegal,10.56,34,7,16,8,79,0,0,0,65,Capacity constrained
+75,2014,Sub-Saharan Africa,ZW,ZWE,76,Zimbabwe,9.65,20,13,13,12,73,7,0,0,51,Capacity constrained
+76,2014,Sub-Saharan Africa,,NAM,77,Namibia,9.44,25,8,17,10,76,0,0,0,65,Capacity constrained
+77,2014,Sub-Saharan Africa,BW,BWA,78,Botswana,8.39,26,8,11,10,80,0,0,0,65,Capacity constrained
+78,2014,Sub-Saharan Africa,ET,ETH,78,Ethiopia,7.75,16,8,20,7,75,0,0,0,65,Capacity constrained
+79,2014,Sub-Saharan Africa,ZM,ZMB,78,Zambia,7.73,19,15,7,10,78,0,0,0,65,Capacity constrained
+80,2014,Sub-Saharan Africa,SL,SLE,78,Sierra Leone,7.54,19,4,8,20,77,0,0,0,65,Capacity constrained
+81,2014,Middle East & North Africa,YE,YEM,82,Yemen,5.8,12,8,9,11,81,0,0,6,51,Capacity constrained
+82,2014,Sub-Saharan Africa,CM,CMR,83,Cameroon,3.77,11,6,6,7,83,7,0,0,51,Capacity constrained
+83,2014,Sub-Saharan Africa,ML,MLI,84,Mali,3.3,19,2,2,6,86,0,0,6,51,Capacity constrained
+84,2014,Latin America & Caribbean,HT,HTI,85,Haiti,1.19,5,4,5,7,84,0,0,0,65,Capacity constrained
+85,2014,East Asia & Pacific,MM,MMR,86,Myanmar,0.0,0,4,5,6,85,0,0,0,65,Capacity constrained
