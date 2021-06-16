@@ -29,7 +29,7 @@ Readiness model had the model of best-fit according to R-squared values.
 Are there regions that are lacking in readiness?
 We as a group wanted to highlight the readiness factor and ODB-score because readiness is the baseline for an open data policy. In general, almost every region has at least some countries that scored poorly and had poor readiness. In particular, Europe & Central Asia and North America regions scored well for readiness whereas the Middle East & North Africa and Sub-Saharan Africa regions scored quite poorly. One might then logically ask what differences the regions have which may lead to such differences.
 
-What common traits do those lacking regions/countries have?
+# What common traits do those lacking regions/countries have?
 
 The cluster groups were a categorical variable describing each country’s ability to support an open data policy. Countries that are Capacity constrained can’t support open data policies even if they wanted to due to lack of infrastructure, support from the private sector, or support from the government. One sided initiatives do not have support from the private sector and are generally countries with relatively less political freedom. Emerging and advancing means that a country has an open data policy but may struggle to reap to full benefits of such policy.
 Which regions improved between 2014 and 2016?
