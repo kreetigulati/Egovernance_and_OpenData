@@ -75,6 +75,9 @@ Latin America: Hati experiences the greatest increase in percentage change of ov
 
 Europe & Central Asia: About half the governments in this region increase their open data score, while the other half experiences a decrease in percentage change from 2014 to 2016. Ukraine experinces the greatest postive percentage change of almost 70%, while France and Hungary experinces the greatest decrease in percentage change of close to 40%.
 
+![image](https://user-images.githubusercontent.com/79419060/122601283-e76d4f00-d025-11eb-9ea2-20e22805214b.png)
+
+
 How Transparency Can Help the Economy
 Transparency would indirectly and directly support a broad range of objectives in government systems globally.
 
