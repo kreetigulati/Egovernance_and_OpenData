@@ -17,6 +17,13 @@ Yes, governments with more e-services share more open data.
 
 A strong correlation .84 between Open Data Barometer Score vs E-Government Index shows a distinct relationship and it’s statistically significant with a p-value score close to zero.
 
+2014:
+![image](https://user-images.githubusercontent.com/79419060/122600395-90b34580-d024-11eb-939a-204c276ddf85.png)
+
+2016:
+![image](https://user-images.githubusercontent.com/79419060/122600436-9b6dda80-d024-11eb-9dc0-097e9f748627.png)
+
+
 We can see this from the data, that we have a high R-squared value, indicating that the model is a good fit for the data, from there calculating a zero p-value indicated that the there is statistical significance, i.e. more e-services does equal more open data.
 
 How did overall ranks change between 2014 and 2016?
@@ -50,8 +57,17 @@ Overall, we can conclude that not every country in their respective regions prog
 # E-Government Index Percentage Change
 
 Latin America & Caribbean: Argentina and Ecuador experiences the greatest increase in percentage change of over 10% from 2014 to 2016 in their e-services rating. Venezuela experiences the greatest decrease of percentage change of over 7%.
+2014:
+![image](https://user-images.githubusercontent.com/79419060/122600503-bc363000-d024-11eb-899b-8d6f23e863cc.png)
+2016:
+![image](https://user-images.githubusercontent.com/79419060/122600539-c821f200-d024-11eb-9156-65e7bb83c27b.png)
 
 Europe & Central Asia: Ukraine experiences the greatest increase in percentage change of over 20%, while France experiences the greatest decrease in percentage change of over 5% from 2014 to 2016.
+2014:
+![image](https://user-images.githubusercontent.com/79419060/122600606-dff97600-d024-11eb-9045-0b4bff551492.png)
+
+2016:
+![image](https://user-images.githubusercontent.com/79419060/122600613-e556c080-d024-11eb-8639-5a7404563155.png)
 
 # Open Data Barometer Score Percentage Change
 
