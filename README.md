@@ -1,7 +1,3 @@
-# opendata-octupi
-Analyzing E-governance and OpenData at a governmental level.
-
-
 # Opendata-Octupi
 Team Members: Jordan Shapiro, Kreeti Gulati, Nico Santoso, Anna Chiasson, Norman Chan
 
